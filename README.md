@@ -1,1 +1,4 @@
-# Stampede-PT
+# Stampede PT
+The Best Game Ever
+
+# Created By Dibyayan Kar
